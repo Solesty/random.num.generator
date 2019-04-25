@@ -1,0 +1,44 @@
+.container {
+  margin: 0 auto;
+  color: white;
+  margin-top: 100px;
+  padding: 20px;
+  background-color: #9b4c94;
+  width: 900px;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+
+.inner-div-generator {
+  margin-left: 70px;
+}
+
+.generatednum {
+  margin-left: 100px;
+}
+
+#generatednum {
+  margin-top: 89px;
+  font-size: 120px;
+  font-weight: bold;
+  float: right;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+input {
+  text-align: center;
+}
+
+.progress {
+  width: 900px;
+}
+
+.chert-security {
+  position: absolute;
+  margin-top: 245px;
+  margin-left: 30px;
+  font-weight: bold;
+  width: 100%;
+}
